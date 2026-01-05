@@ -1,0 +1,5 @@
+{
+  "name": "LiveBizPlan",
+  "description": "A live business plan generator with a Notion-style block editor. Features real-time LLM updates, drag-and-drop block organization, and markdown export.",
+  "requestFramePermissions": []
+}
